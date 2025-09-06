@@ -1,0 +1,36 @@
+Napomena: ovo nisu precizno prepisana pitanja i a/b/c/d odgovori, niti istim redoslijedom kao na ispitu, samo su prepricana tocna rjesenja. Preporucam za svako pitanje naci slajd o njemu na prezentacijama i detaljnije prouciti o cemu se radi.
+
+1. Ksenofont: doxa je neartikuliran, pomjenjiv i politički irelevantan sud svojstven neobrazovanoj gomili i stoga u suprotnosti s razumom vladajuće manjine.
+2. Prema Platonu najvisi stupanj spoznaje je umno saznanje pranacela.
+3. Platon razlikuje znanje (episteme) i mnijenje (doxa). Aristotel ih takoder razlikuje, ali na vrlo razlicit nacin od Platona.
+4. Javno mijenje ima dva znacenja i u starom rimu i danas.
+5. Kant: Mišljenje je svjesno, i subjektivno i objektivno, te čini nedovoljnu prosudbu.
+6. Socioloski pristup: Javno mnijenje je supraindividualni fenomen koji nastaje produktom komunikacije i interakcije pojedinaca.
+7. Individualni pristup: Javnost je jednostavni agregat pojedinaca.
+8. Stavovi su relativno stabilni i konzistentno pozitivni ili negativni pogledi na osobu, mjesto, stvar. Mnijenja su verbalni izričaj stava.
+9. Vrijednosti su naše razumijevanje stvari kakve bi trebale biti. Vjerovanja su naše razumijevanje stvari kakvima jesu.
+10. U anketama se ispituje mnijenje.
+11. Instrumentalno uvjetovanje – Ljudi pokušavaju maksimizirati pozitivne posljedice i minimizirati negativne posljedice svog ponašanja, odnosno stavova.
+12. Periferni put za promjenu misljenja – fokusiranje na jednostavne, uvjerljive stvari – promjena može biti kratkotrajna, prolazna.
+13. Teorija spirale tisine - 1. Misljenje dominantno u masovnim medijima, 2. Meduosobna podrska za devijantna misljenja 3. Spremnost pojedinca za promjenu javnog mnijenja.
+14. Fokus grupa je kvalitativna dopuna kvantitativnim podacima. Dubinski intervjui su takoder kvalitativna metoda istrazivanja. Kvantitativne metode istrazivanja su ispitivanje uzorka (licem u lice, telefonski, posta, internet, presretanje), eksperiment i analiza pisama.
+15. Dedukcija je iz teorije u potvrdu ili odbacivanje hipoteza, a indukcija je iz opservacije (prikupljanja i analize podataka) u teoriju.
+16. Primarni nedostatak interneta je reprezentativnost uzorka.
+17. Neugoda ispitanika, dugotrajnost i cijena su nedostaci metode licem u lice.
+18. Nulta hipoteza: Mačke ne biraju hranu po boji.
+20. idk, mislim da je ovdje bilo neko sugestivno pitanje kao "Zaokružite Vašu najdražu sevdalinku."
+21. S obzirom da ljudi cesto pricaju na mobitel kada voze auto, kako primjerice na vas to utjece? Ovo je pitanje napunjeno, neprecizno (slabo konkretno), potpuno, otvoreno, sugestivno i nametljivo, ali nije dvosjeklo ili negativno.
+22. 21. pitanje, koje ima A/B/C/D ponudene odgovore kao i svako drugo, jest zatvoreno.
+23. Vozac autobusa turiste nakon Budimpeste vodi na Balaton da jedu pohani smudz. Odjednom se zadere: "Lijevo ili desno?" Takvo je pitanje zatvoreno i nominalne/kategoricke forme odgovora.
+24. Kolika je važnost pojedinog filma u formiranju Vašeg mišljenja o modernom gradskom životu? Koristiti iduću skalu za ocjenu filma: (1 – Posve nevažno) (2 – Vjerojatno nevažno) (3 – Vjerojatno važno) (4 – Posve važno) (5 – Ne znam). Ovo je pitanje zatvoreno i redne forme odgovora.
+25. Ispituju se dugorocni pusaci. Kriterij ukljucenosti je "Dob 20-50 godina".
+26. Sistematsko uzorkovanje je slučaj kada se uzorkuju ispitanici sa liste koji imaju fiksni razmak.
+27. Uzorkovanje rastom je kada prijašni ispitanici grupe identificiraju druge članove za anketiranje.
+28. Pogodno uzorkovanje bavi se grupom ispitanika koji su spremni i dostupni npr. “korištenje” potrošača u trgovačkim centrima za marketing ankete, kada je neka vikend akcija.
+29. Odziv je omjer stvarnih ispitanika prema broju podobnih (netocno je raspolozivih!)
+30. Strukturirana promatranja (engl. Structured Observations) su kada promatrač se fokusira na specifične akcije i karakteristike ispitanika, podaci i informacije se prikupljaju vizualno.
+31. idk
+32. idk
+33. idk
+34. Plus minus jedna sigma jest 68 %
+35. Decimalni brojevi zaokruzuju se tako da se .5 i vise zaokruzuje na vise, a sve manje od .5 se zaokruzuje na nize.
